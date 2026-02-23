@@ -9,3 +9,7 @@ DErs 3-https://colab.research.google.com/drive/1cnnoOvOn9vGY4V_dtnVXuUxvJWQgRmR-
 Python Ödev : https://colab.research.google.com/drive/1IodOwkTqBqyryDhyX_JM7c6zn9-4GwD-?usp=sharing
 
 Python Ödev 2 : https://colab.research.google.com/drive/1RDsZ3SJjbVqF7K7jVazHRmLy8jVekRTt?usp=sharing
+
+Tips ödevi 1 : https://colab.research.google.com/drive/1J_kGJLRotgz8c6R2_4cRdIZjahgW4MvU?usp=sharing
+
+Tips ödevi 2 : https://colab.research.google.com/drive/1MCoOz-9_rkh_Zx57nZEf8gfRDarni2KZ?usp=sharing
