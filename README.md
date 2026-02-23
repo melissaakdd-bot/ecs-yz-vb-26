@@ -5,3 +5,5 @@ DErs 1- python giriş : https://colab.research.google.com/drive/1hHa70rDewAU6hqK
 DErs 2- https://colab.research.google.com/drive/1Do-G7rOcAsFtP0KDGpIqPU02UcivMMJb?usp=sharing
 
 DErs 3-https://colab.research.google.com/drive/1cnnoOvOn9vGY4V_dtnVXuUxvJWQgRmR-?usp=sharing
+
+Python Ödev : https://colab.research.google.com/drive/1IodOwkTqBqyryDhyX_JM7c6zn9-4GwD-?usp=sharing
