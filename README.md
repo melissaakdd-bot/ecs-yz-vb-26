@@ -6,6 +6,8 @@ DErs 2- https://colab.research.google.com/drive/1Do-G7rOcAsFtP0KDGpIqPU02UcivMMJ
 
 DErs 3-https://colab.research.google.com/drive/1cnnoOvOn9vGY4V_dtnVXuUxvJWQgRmR-?usp=sharing
 
+Veri bilimi : https://colab.research.google.com/drive/1r8058o0fUZWVsFs-Rp9ODTCXts03core?usp=sharing
+
 Python Ödev : https://colab.research.google.com/drive/1IodOwkTqBqyryDhyX_JM7c6zn9-4GwD-?usp=sharing
 
 Python Ödev 2 : https://colab.research.google.com/drive/1RDsZ3SJjbVqF7K7jVazHRmLy8jVekRTt?usp=sharing
