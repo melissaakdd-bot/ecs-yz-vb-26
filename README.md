@@ -15,3 +15,5 @@ Python Ödev 2 : https://colab.research.google.com/drive/1RDsZ3SJjbVqF7K7jVazHRm
 Tips ödevi 1 : https://colab.research.google.com/drive/1J_kGJLRotgz8c6R2_4cRdIZjahgW4MvU?usp=sharing
 
 Tips ödevi 2 : https://colab.research.google.com/drive/1MCoOz-9_rkh_Zx57nZEf8gfRDarni2KZ?usp=sharing
+
+Titanic Competation : kaggle.com/code/melisaakda/notebook420a25c860/edit
