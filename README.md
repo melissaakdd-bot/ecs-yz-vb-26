@@ -17,3 +17,5 @@ Tips ödevi 1 : https://colab.research.google.com/drive/1J_kGJLRotgz8c6R2_4cRdIZ
 Tips ödevi 2 : https://colab.research.google.com/drive/1MCoOz-9_rkh_Zx57nZEf8gfRDarni2KZ?usp=sharing
 
 Titanic Competation : kaggle.com/code/melisaakda/notebook420a25c860/edit
+
+Araç fiyat tahmini : https://colab.research.google.com/drive/1OxeUTdbQ1F8yvq34-X4edvcJ5X9zj3U9?usp=sharing
