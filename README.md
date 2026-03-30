@@ -21,3 +21,5 @@ Titanic Competation : kaggle.com/code/melisaakda/notebook420a25c860/edit
 Araç fiyat tahmini : https://colab.research.google.com/drive/1OxeUTdbQ1F8yvq34-X4edvcJ5X9zj3U9?usp=sharing
 
 Slider : https://colab.research.google.com/drive/1K-6XlteNq820zGT4g6q4yGNZbIVPZVNU?usp=sharing
+
+Toplu Görsel indirme : https://colab.research.google.com/drive/1ck0zat4ipUV99RtGXhfDX02BHBw0pXeJ?usp=sharing 
