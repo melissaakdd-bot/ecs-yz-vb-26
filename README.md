@@ -25,3 +25,5 @@ Slider : https://colab.research.google.com/drive/1K-6XlteNq820zGT4g6q4yGNZbIVPZV
 Toplu Görsel indirme : https://colab.research.google.com/drive/1ck0zat4ipUV99RtGXhfDX02BHBw0pXeJ?usp=sharing 
 
 Veri toplama : https://colab.research.google.com/drive/126aDiBcWJEkTLHVvQz9v3lRxMzmg37FL?usp=sharing
+
+Pandas ile veri çekme : https://colab.research.google.com/drive/1hsZjMXsFSaGi8P5eWmGieChn2g79lDbO?usp=sharing
