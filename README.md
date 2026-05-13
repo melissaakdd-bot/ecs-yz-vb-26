@@ -31,3 +31,5 @@ Pandas ile veri çekme : https://colab.research.google.com/drive/1hsZjMXsFSaGi8P
 Corona yarısan grafik : https://colab.research.google.com/drive/14iawk6Gii0PL_MHn1yDb5H2LSTaHSn0n?usp=sharing
 
 Google-Trendleri : https://colab.research.google.com/drive/1Mp8nWopLxUXRAsgYl7N6hb9EbAllkOAI?usp=sharing
+
+Gradio-Google : https://colab.research.google.com/drive/17W0wkR8oMm3oYCXZiKwV3VLkiVMHkCf9?usp=sharing
