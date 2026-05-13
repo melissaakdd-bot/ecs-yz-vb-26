@@ -27,3 +27,5 @@ Toplu Görsel indirme : https://colab.research.google.com/drive/1ck0zat4ipUV99Rt
 Veri toplama : https://colab.research.google.com/drive/126aDiBcWJEkTLHVvQz9v3lRxMzmg37FL?usp=sharing
 
 Pandas ile veri çekme : https://colab.research.google.com/drive/1hsZjMXsFSaGi8P5eWmGieChn2g79lDbO?usp=sharing
+
+Corona yarısan grafik : https://colab.research.google.com/drive/14iawk6Gii0PL_MHn1yDb5H2LSTaHSn0n?usp=sharing
