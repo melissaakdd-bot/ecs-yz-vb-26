@@ -39,3 +39,5 @@ Finansal-veri : https://colab.research.google.com/drive/1uX-MZrJebIiI2e1U4Y_0572
 Weather API : https://colab.research.google.com/drive/168t6E62KkoXrm6FR2Y3SNfDsEVlEsZUd?usp=sharing
 
 Musteri Churn Analizi: https://colab.research.google.com/drive/1Zj4vVvr94YDmL-KH0am8l3faV0RcSg4z?usp=sharing
+
+Dizi Öneri : https://colab.research.google.com/drive/1yvqehiv_REcw9ZqT4Muh9gqevoA5xcM3?usp=sharing
